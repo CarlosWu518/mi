@@ -1,0 +1,121 @@
+{
+  "id": "2464225",
+  "name": "小米静态页面",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "987741",
+      "name": "礼盒",
+      "font_class": "lihe",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "4547863",
+      "name": "左箭头",
+      "font_class": "left",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7152261",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "8443764",
+      "name": "左箭头",
+      "font_class": "arrow-right-copy",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "10461190",
+      "name": "差 ",
+      "font_class": "cha",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "11445239",
+      "name": "心 爱心",
+      "font_class": "xinaixin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11467976",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "12318713",
+      "name": "15天",
+      "font_class": "tian",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "12857547",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "12870094",
+      "name": "购物车",
+      "font_class": "gouwuche-copy-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13189410",
+      "name": "7天",
+      "font_class": "tian1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "13519703",
+      "name": "地点",
+      "font_class": "didian",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "15693053",
+      "name": "对勾",
+      "font_class": "duigou",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "18263144",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "18444245",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "19847397",
+      "name": "右箭头",
+      "font_class": "youjiantou1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
